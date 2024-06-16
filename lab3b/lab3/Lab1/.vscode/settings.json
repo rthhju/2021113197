@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/jgrapht-core-1.5.2.jar",
+        "lib/jgrapht-io-1.5.2.jar",
+        "lib/jgrapht-ext-1.5.2.jar",
+        "lib/jgraphx-4.2.2.jar"
+    ]
+}
